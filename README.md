@@ -3,7 +3,7 @@ A better implementation of a repository for themes &amp; plugins for BetterDisco
 
 ## How To Install
 1. Install [BetterDiscord](https://betterdiscord.net/home/) if you don't already have it.
-2. Download [evenBetterRepo.plugin.js](https://raw.githubusercontent.com/IRDeNial/BD-Even-Better-Repo/master/evenBetterRepo.plugin.js)
+2. Download [evenBetterRepo.plugin.js](https://raw.githubusercontent.com/Dekryptor/BD-Plugins-Themes-Repo/master/evenBetterRepo.plugin.js)
 3. Put it in your plugins directory (Just open it from the client, can vary between users).
 4. Restart BetterDiscord
 5. Go into the BetterDiscord settings and enable the plugin
@@ -31,12 +31,12 @@ Theme/Plugin Description: `TYPE HERE`
 THEME ONLY:
 Preview Screenshot: `TYPE HERE`
 ```
-[Click here for an example (https://github.com/IRDeNial/BD-Even-Better-Repo/issues/42)](https://github.com/IRDeNial/BD-Even-Better-Repo/issues/42)
+[Click here for an example (https://github.com/Dekryptor/BD-Plugins-Themes-Repo/issues/42)](https://github.com/IRDeNial/BD-Even-Better-Repo/issues/42)
 
 Failure to follow this exact layout will result in your request being denied.  Nobody has time to fix your mistakes constantly.
 
 ## Contributors
-A list of all contributors can be found [here (https://github.com/IRDeNial/BD-Even-Better-Repo/graphs/contributors)](https://github.com/IRDeNial/BD-Even-Better-Repo/graphs/contributors)
+A list of all contributors can be found [here (https://github.com/Dekryptor/BD-Plugins-Themes-Repo/graphs/contributors)](https://github.com/IRDeNial/BD-Even-Better-Repo/graphs/contributors)
 
 ## Contribution Guidelines
 * Document **ALL** code contributions
